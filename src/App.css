@@ -30,3 +30,8 @@
     transform: rotate(360deg);
   }
 }
+
+.App2-Charts{
+  width: 400px;
+  height: 400px;
+}
